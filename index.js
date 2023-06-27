@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["MERN Stack ","Springboot  ","React Native ","Angular","Android Sudio"],
+        strings: [ "Springboot ","MySql","React ","Angular","javaScript","HTML","CSS","C++","Java"],
         typeSpeed: 70,
         backSpeed: 35,
         loop: true
